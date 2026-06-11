@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Do Nguyen Minh Ngoc - E-commerce Specialist</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-content">
+                <a href="#" class="logo">Minh Ngoc</a>
+                <ul class="nav-menu">
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <h1>Do Nguyen Minh Ngoc</h1>
+                    <p class="subtitle">E-commerce Specialist & Digital Marketing Expert</p>
+                    <p class="description">I help businesses grow and thrive through comprehensive e-commerce strategies and data-driven digital marketing solutions that deliver measurable results.</p>
+                    <div class="hero-buttons">
+                        <a href="#contact" class="btn btn-primary">Get In Touch</a>
+                        <a href="#portfolio" class="btn btn-secondary">View Portfolio</a>
+                    </div>
+                </div>
+                <div class="hero-image">
+                    <div class="image-placeholder">MN</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>I am an e-commerce specialist with 2+ years of experience in digital marketing, UI/UX design, and e-commerce platform management. My passion is helping businesses establish and grow their online presence.</p>
+                    <p>With a combination of creative design skills and deep knowledge of e-commerce markets, I deliver comprehensive solutions that help your brand stand out and drive sustainable growth in the competitive digital landscape.</p>
+                    <div class="info-grid">
+                        <div class="info-item">
+                            <span class="label">Email:</span>
+                            <span class="value">laernguyeen22@gmail.com</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="label">Phone:</span>
+                            <span class="value">0786540670</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="label">Location:</span>
+                            <span class="value">Vietnam</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="label">Status:</span>
+                            <span class="value">Open for Collaboration</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="about-skills">
+                    <h3>Core Skills</h3>
+                    <div class="skills-list">
+                        <span class="skill-tag">UI/UX Design</span>
+                        <span class="skill-tag">Digital Marketing</span>
+                        <span class="skill-tag">E-commerce Strategy</span>
+                        <span class="skill-tag">Figma</span>
+                        <span class="skill-tag">WordPress</span>
+                        <span class="skill-tag">Canva</span>
+                        <span class="skill-tag">Video Editing</span>
+                        <span class="skill-tag">SEO</span>
+                        <span class="skill-tag">Content Marketing</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="services">
+        <div class="container">
+            <h2>Services</h2>
+            <div class="services-grid">
+                <div class="service-card">
+                    <div class="service-icon">🎨</div>
+                    <h3>UI/UX Design</h3>
+                    <p>Create modern, user-friendly interfaces for websites and e-commerce applications that engage users and drive conversions.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">📱</div>
+                    <h3>Website Development</h3>
+                    <p>Build professional e-commerce websites using WordPress, Shopify, and modern web technologies optimized for performance.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">📊</div>
+                    <h3>Digital Marketing</h3>
+                    <p>Comprehensive marketing strategies including SEO, SEM, and content marketing to increase traffic and conversion rates.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">📈</div>
+                    <h3>E-commerce Strategy</h3>
+                    <p>Develop and implement effective online sales strategies that optimize revenue, enhance customer experience, and drive growth.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">🎬</div>
+                    <h3>Content Creation</h3>
+                    <p>Produce high-quality content including images, videos, and copy that attracts customers and drives meaningful engagement.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">🎯</div>
+                    <h3>Branding</h3>
+                    <p>Build strong brand identity with cohesive visual design, messaging, and strategy across all digital platforms.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Portfolio Section -->
+    <section id="portfolio" class="portfolio">
+        <div class="container">
+            <h2>Portfolio</h2>
+            <div class="portfolio-grid">
+                <div class="portfolio-item">
+                    <div class="portfolio-image">01</div>
+                    <h3>E-commerce Platform Design</h3>
+                    <p>Designed and developed a complete e-commerce platform interface with optimized UX for mobile and desktop users, resulting in improved user engagement.</p>
+                    <div class="portfolio-tags">
+                        <span>UI/UX Design</span>
+                        <span>Figma</span>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image">02</div>
+                    <h3>Digital Marketing Campaign</h3>
+                    <p>Executed comprehensive marketing campaign for product launch, achieving 45% increase in brand awareness and significant conversion rate improvement.</p>
+                    <div class="portfolio-tags">
+                        <span>Digital Marketing</span>
+                        <span>Content Strategy</span>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image">03</div>
+                    <h3>Website Redesign</h3>
+                    <p>Complete redesign of e-commerce website improving load speed by 60%, enhancing SEO rankings, and increasing overall conversion by 35%.</p>
+                    <div class="portfolio-tags">
+                        <span>Web Design</span>
+                        <span>WordPress</span>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image">04</div>
+                    <h3>Brand Identity Design</h3>
+                    <p>Developed complete brand identity system including logo design, color palette, typography guidelines, and visual standards for consistency.</p>
+                    <div class="portfolio-tags">
+                        <span>Branding</span>
+                        <span>Canva</span>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image">05</div>
+                    <h3>Product Video Production</h3>
+                    <p>Created professional product advertising videos that increased social media engagement by 250% and drove significant traffic to product pages.</p>
+                    <div class="portfolio-tags">
+                        <span>Video Editing</span>
+                        <span>Content</span>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image">06</div>
+                    <h3>Social Media Strategy</h3>
+                    <p>Developed and implemented comprehensive social media strategy, growing followers by 180% and increasing engagement rates significantly across platforms.</p>
+                    <div class="portfolio-tags">
+                        <span>Social Media</span>
+                        <span>Marketing</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2>Get In Touch</h2>
+            <div class="contact-content">
+                <div class="contact-info">
+                    <h3>Contact Information</h3>
+                    <div class="contact-item">
+                        <span class="contact-label">Email:</span>
+                        <a href="mailto:laernguyeen22@gmail.com">laernguyeen22@gmail.com</a>
+                    </div>
+                    <div class="contact-item">
+                        <span class="contact-label">Phone:</span>
+                        <a href="tel:0786540670">0786540670</a>
+                    </div>
+                    <div class="contact-item">
+                        <span class="contact-label">Location:</span>
+                        <p>Vietnam</p>
+                    </div>
+                    <div class="contact-item">
+                        <span class="contact-label">Availability:</span>
+                        <p>Available for projects and collaborations</p>
+                    </div>
+                </div>
+                <form class="contact-form">
+                    <div class="form-group">
+                        <input type="text" placeholder="Your Name" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="email" placeholder="Your Email" required>
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Your Message" rows="5" required></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Send Message</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 Do Nguyen Minh Ngoc. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
